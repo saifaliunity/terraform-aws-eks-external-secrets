@@ -49,7 +49,7 @@ variable "helm_chart_repo" {
 
 variable "helm_chart_version" {
   type        = string
-  default     = "7.2.1"
+  default     = "8.5.5"
   description = "External Secrets chart version."
 }
 
